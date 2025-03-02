@@ -21,7 +21,7 @@ Q13. Write a Python program that creates a new list containing only the positive
 Example: Given the list [-1, 2, -3, 4, 5, -6], the program should output [2, 4, 5]
 
 Q14. Write a Python program that concatenates all the strings in a given list into a single string.
-Example: Given the list ["hello", "world", "python"], the program should output
+Example: Given the list ["hello", "world", "python"], the program should output : "helloworldpython"
 
 Q15. Write a Python program that calculates the product of all numbers in a list
 
@@ -38,4 +38,3 @@ Q18. Write a Python program using a while loop to count how many times a specifi
 appears in a list. Example: Given the list [1, 2, 3, 4, 2, 2, 5] and the number 2, the
 program should output 3
 
-"helloworldpython"
