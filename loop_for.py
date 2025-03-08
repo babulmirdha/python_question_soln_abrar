@@ -1,6 +1,11 @@
 #two types of loops
 # 1. Definite loop
+     # a. for in range
+     # b. for in list
+     # c. for in string
 # 2. Indefinite loop
+     # a. while loop
+
 # example of definate loop
 
 print("********* range(10) or range(0,10,1) ************")
@@ -29,7 +34,33 @@ for counter in range(10,100,10):
      print(counter)
 
 
-# while loop
-# for loop
+fruits = ["apple", "banana", "cherry"]
+
+#for range
+print("******** range(len(fruits)) *************")
+for i in range(len(fruits)):
+     print(fruits[i])
+
+#for list
+print("******** for in *************")
+for x in fruits:
+  print(x)
+  
+#for string
+for x in "banana":
+  print(x)
+
+  
+name = "Abrar"
+for x in name:
+     print(x)
+     
+for i in range(0, len(name), 1):
+     print(name[i])
+     
+
+  
+
+
 
 
