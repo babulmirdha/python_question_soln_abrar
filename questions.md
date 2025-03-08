@@ -38,14 +38,14 @@ Q18. Write a Python program using a while loop to count how many times a specifi
 appears in a list. Example: Given the list [1, 2, 3, 4, 2, 2, 5] and the number 2, the
 program should output 3
 
-Q19. Write a Python program using a while loop to reverse a list. Example: Given the list [1,
-2, 3, 4, 5], the program should output [5, 4, 3, 2, 1]
+Q19. Write a Python program using a while loop to reverse a list. 
+Example: Given the list [1, 2, 3, 4, 5], the program should output [5, 4, 3, 2, 1]
 
-Q20. Write a Python program using a while loop to find the smallest number in a list. Example:
-Given the list [10, 20, 4, 45, 99], the program should output 4
+Q20. Write a Python program using a while loop to find the smallest number in a list. 
+Example: Given the list [10, 20, 4, 45, 99], the program should output 4
 
-Q21. Write a Python program using a while loop to find the greatest number in a list. Example:
-Given the list [10, 20, 4, 45, 99], the program should output 99
+Q21. Write a Python program using a while loop to find the greatest number in a list. 
+Example: Given the list [10, 20, 4, 45, 99], the program should output 99
 
 Q22. Write a Python program with a list consisting of both positive and negative numbers.
 Ensure that the smallest number is found correctly
