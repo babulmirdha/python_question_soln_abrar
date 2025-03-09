@@ -43,6 +43,7 @@ Example: Given the list [10, 20, 4, 45, 99], the program should output 99
 
 Q22. Write a Python program with a list consisting of both positive and negative numbers.
 Ensure that the smallest number is found correctly
+Example: Given the list [12, -5, 23, -42, 8, 0, 17, -10], the program should output -42
 
 Q23. Write a Python program that counts how many times a specific element (given by the user)
 occurs in a list using a while loop.
